@@ -1,0 +1,51 @@
+[
+  {
+    "id": "one",
+    "name": "Chicken Masala",
+    "img": "img/food-menu-5.png",
+    "price": 79,
+    "des": "Add The Card"
+  },
+  {
+    "id": "two",
+    "name": "Burger Kingo",
+    "img": "img/food-menu-4.png",
+    "price": 59,
+    "des": "Add The Card"
+  },
+  {
+    "id": "three",
+    "name": "Maxican Pizza",
+    "img": "img/food-menu-1.png",
+    "price": 46,
+    "des": "Add The Card"
+  },
+  {
+    "id": "four",
+    "name": "Soft Drinks",
+    "img": "img/promo-2.png",
+    "price": 105,
+    "des": "Add The Card"
+  },
+  {
+    "id": "five",
+    "name": "French Fry",
+    "img": "img/promo-3.png",
+    "price": 95,
+    "des": "Add The Card"
+  },
+  {
+    "id": "sex",
+    "name": "fruits & vegetables",
+    "img": "img/promo-5.png",
+    "price": 1400,
+    "des": "Add The Card"
+  },
+  {
+    "id": "seven",
+    "name": "fried eggs",
+    "img": "img/promo-4.png",
+    "price": 1700,
+    "des": "Add The Card"
+  }
+]

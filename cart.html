@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/test.css">
+    <link rel="stylesheet" href="./src/cart.css">
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <a href="index.html">
+        <div class="logo">
+          <h1>Pizz<span>a</span></h1>
+          <ion-icon name="pizza-outline"></ion-icon>
+        </div>
+      </a>
+      <div class="icons">
+        <a href="cart.html">
+          <button class="card">
+            <ion-icon name="bag-outline"></ion-icon>
+            <div class="count">0</div>
+          </button>
+        </a>
+
+        <div class="mode">
+          <button class="sunny">
+            <ion-icon name="sunny-outline"></ion-icon>
+          </button>
+
+          <button class="moon">
+            <ion-icon name="moon-outline"></ion-icon>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <button class="btn-top">
+      <ion-icon name="caret-up-outline"></ion-icon>
+    </button>
+
+    <div id="label" class="text-center"></div>
+
+    <div id="shopping-cart" class="shopping-cart"></div>
+    <div class="total-cart"></div>
+
+    <script src="./src/cart.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+  </body>
+</html>
